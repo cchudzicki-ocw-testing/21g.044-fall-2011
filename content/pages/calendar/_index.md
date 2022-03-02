@@ -45,7 +45,7 @@ Introduction to traditional Chinese culture
 
 Begin discussion of poetry unit
 
-{{< resource_link 19e0292d-a742-bac2-eb5d-a748c0a67a86 "In-class assignment: Poetry Storyboards" >}}
+{{% resource_link 19e0292d-a742-bac2-eb5d-a748c0a67a86 "In-class assignment: Poetry Storyboards" %}}
 
 
 {{< tdclose >}}
@@ -214,7 +214,7 @@ Discussion of chapters 94, 98, 116, 119, 120
 
 Field trip to the Museum of Fine Arts, Boston to the "Beyond the Screen" Exhibit and Chinese galleries
 
-{{< resource_link 0bedded8-0142-7b44-c7b3-f6dee18ec824 "Handout for the Museum of Fine Arts trip" >}}
+{{% resource_link 0bedded8-0142-7b44-c7b3-f6dee18ec824 "Handout for the Museum of Fine Arts trip" %}}
 
 
 {{< tdclose >}}
